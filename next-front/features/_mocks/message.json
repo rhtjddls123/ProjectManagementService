@@ -1,0 +1,38 @@
+{
+  "Message": [
+    {
+      "CHATROOM_ID": 1,
+      "MESSAGE_ID": 1,
+      "SENDER": "mno",
+      "CONTENT": "안녕하세요?",
+      "SENT_TIME": "2023-12-31T17:00:01.000Z"
+    },
+    {
+      "CHATROOM_ID": 1,
+      "MESSAGE_ID": 2,
+      "SENDER": "abc",
+      "CONTENT": "저녁에 시간 괜찮으세요?",
+      "SENT_TIME": "2023-12-31T17:00:02.000Z"
+    },
+    {},
+    {
+      "CHATROOM_ID": 1,
+      "MESSAGE_ID": 4,
+      "SENDER": "ghi",
+      "CONTENT": "최근에 본 영화 추천해주세요.",
+      "SENT_TIME": "2023-12-31T17:00:04.000Z"
+    },
+    {
+      "CHATROOM_ID": 1,
+      "MESSAGE_ID": 5,
+      "SENDER": "jkl",
+      "CONTENT": "점심 뭐 드셨나요?",
+      "SENT_TIME": "2023-12-31T17:00:05.000Z"
+    }
+  ],
+  "CHATROOM_ID": 1,
+  "MESSAGE_ID": 3,
+  "SENDER": "def",
+  "CONTENT": "점심 뭐 드셨나요?",
+  "SENT_TIME": "2023-12-31T17:00:03.000Z"
+}

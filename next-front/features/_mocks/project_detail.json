@@ -1,0 +1,2255 @@
+{
+  "PROJECT_DETAIL": [
+    {
+      "_comment1": "AUTHORITY A는 일반사용자 B는 개발자 C는 관리자",
+      "PROJECT_NO": 1,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 1,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 1,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 1,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 1,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 1,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 1,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 1,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 1,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 2,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 2,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 2,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 2,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 2,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 2,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 2,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 2,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 2,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 3,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 3,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 3,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 3,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 3,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 3,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 3,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 3,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 3,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 4,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 4,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 4,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 4,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 4,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 4,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 4,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 4,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 4,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 5,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 5,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 5,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 5,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 5,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 5,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 5,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 5,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 5,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 6,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 6,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 6,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 6,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 6,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 6,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 6,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 6,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 6,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 7,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 7,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 7,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 7,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 7,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 7,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 7,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 7,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 7,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 8,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 8,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 8,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 8,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 8,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 8,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 8,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 8,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 8,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 9,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 9,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 9,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 9,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 9,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 9,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 9,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 9,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 9,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 10,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 10,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 10,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 10,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 10,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 10,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 10,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 10,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 10,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 11,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 11,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 11,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 11,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 11,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 11,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 11,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 11,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 11,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 12,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 12,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 12,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 12,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 12,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 12,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 12,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 12,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 12,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 13,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 13,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 13,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 13,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 13,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 13,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 13,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 13,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 13,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 14,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 14,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 14,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 14,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 14,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 14,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 14,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 14,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 14,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 15,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 15,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 15,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 15,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 15,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 15,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 15,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 15,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 15,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 16,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 16,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 16,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 16,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 16,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 16,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 16,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 16,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 16,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 17,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 17,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 17,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 17,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 17,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 17,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 17,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 17,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 17,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 18,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 18,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 18,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 18,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 18,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 18,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 18,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 18,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 18,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 19,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 19,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 19,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 19,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 19,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 19,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 19,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 19,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 19,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 20,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 20,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 20,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 20,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 20,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 20,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 20,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 20,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 20,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 21,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 21,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 21,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 21,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 21,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 21,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 21,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 21,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 21,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 22,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 22,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 22,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 22,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 22,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 22,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 22,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 22,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 22,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 23,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 23,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 23,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 23,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 23,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 23,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 23,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 23,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 23,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 24,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 24,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 24,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 24,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 24,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 24,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 24,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 24,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 24,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 25,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 25,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 25,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 25,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 25,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 25,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 25,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 25,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 25,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 26,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 26,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 26,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 26,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 26,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 26,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 26,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 26,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 26,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 27,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 27,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 27,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 27,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 27,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 27,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 27,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 27,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 27,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 28,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 28,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 28,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 28,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 28,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 28,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 28,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 28,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 28,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 29,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 29,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 29,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 29,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 29,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 29,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 29,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 29,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 29,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 30,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 30,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 30,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 30,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 30,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 30,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 30,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 30,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 30,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 31,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 31,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 31,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 31,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 31,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 31,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 31,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 31,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 31,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 32,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 32,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 32,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 32,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 32,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 32,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 32,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 32,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 32,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 33,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 33,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 33,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 33,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 33,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 33,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 33,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 33,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 33,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 34,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 34,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 34,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 34,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 34,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 34,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 34,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 34,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 34,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 35,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 35,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 35,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 35,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 35,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 35,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 35,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 35,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 35,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 36,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 36,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 36,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 36,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 36,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 36,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 36,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 36,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 36,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 37,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 37,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 37,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 37,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 37,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 37,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 37,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 37,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 37,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 38,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 38,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 38,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 38,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 38,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 38,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 38,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 38,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 38,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 39,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 39,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 39,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 39,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 39,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 39,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 39,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 39,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 39,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 40,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 40,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 40,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 40,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 40,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 40,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 40,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 40,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 40,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 41,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 41,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 41,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 41,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 41,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 41,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 41,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 41,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 41,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 42,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 42,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 42,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 42,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 42,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 42,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 42,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 42,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 42,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 43,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 43,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 43,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 43,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 43,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 43,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 43,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 43,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 43,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 44,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 44,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 44,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 44,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 44,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 44,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 44,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 44,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 44,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 45,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 45,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 45,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 45,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 45,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 45,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 45,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 45,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 45,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 46,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 46,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 46,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 46,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 46,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 46,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 46,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 46,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 46,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 47,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 47,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 47,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 47,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 47,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 47,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 47,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 47,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 47,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 48,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 48,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 48,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 48,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 48,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 48,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 48,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 48,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 48,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 49,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 49,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 49,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 49,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 49,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 49,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 49,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 49,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 49,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    },
+    {
+      "PROJECT_NO": 50,
+      "USER_ID": 1,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 50,
+      "USER_ID": 2,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 50,
+      "USER_ID": 3,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 50,
+      "USER_ID": 4,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 50,
+      "USER_ID": 5,
+      "AUTHORITY": "A"
+    },
+    {
+      "PROJECT_NO": 50,
+      "USER_ID": 6,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 50,
+      "USER_ID": 7,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 50,
+      "USER_ID": 8,
+      "AUTHORITY": "B"
+    },
+    {
+      "PROJECT_NO": 50,
+      "USER_ID": 9,
+      "AUTHORITY": "C"
+    }
+  ]
+}
