@@ -1,8 +1,13 @@
-import Calendar from '@/features/_container/calendar/Calendar';
 import React from 'react';
 
 const CalendarPage = () => {
-  return <Calendar />;
+  return (
+    <div className='whitespace-pre-wrap'>
+      {'sdafasdfdsafa\n' +
+        'asdfasdfsadfasfd \nasdfasdfasdfsaf\n sadfasdfsadfsadf' +
+        'sadfasfsadfsdfasf \nasdfasfsadfsafas'}
+    </div>
+  );
 };
 
 export default CalendarPage;
