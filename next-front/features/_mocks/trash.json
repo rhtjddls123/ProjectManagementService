@@ -1,0 +1,304 @@
+{
+  "TRASH": [
+    {
+      "issue_no": 1,
+      "project_no": 19,
+      "user_id": 9,
+      "trash": true
+    },
+    {
+      "issue_no": 2,
+      "project_no": 30,
+      "user_id": 4,
+      "trash": true
+    },
+    {
+      "issue_no": 3,
+      "project_no": 29,
+      "user_id": 5,
+      "trash": true
+    },
+    {
+      "issue_no": 4,
+      "project_no": 49,
+      "user_id": 2,
+      "trash": true
+    },
+    {
+      "issue_no": 5,
+      "project_no": 29,
+      "user_id": 5,
+      "trash": true
+    },
+    {
+      "issue_no": 6,
+      "project_no": 45,
+      "user_id": 4,
+      "trash": true
+    },
+    {
+      "issue_no": 7,
+      "project_no": 37,
+      "user_id": 3,
+      "trash": true
+    },
+    {
+      "issue_no": 8,
+      "project_no": 14,
+      "user_id": 7,
+      "trash": true
+    },
+    {
+      "issue_no": 9,
+      "project_no": 32,
+      "user_id": 1,
+      "trash": true
+    },
+    {
+      "issue_no": 10,
+      "project_no": 28,
+      "user_id": 6,
+      "trash": true
+    },
+    {
+      "issue_no": 11,
+      "project_no": 31,
+      "user_id": 5,
+      "trash": true
+    },
+    {
+      "issue_no": 12,
+      "project_no": 39,
+      "user_id": 6,
+      "trash": true
+    },
+    {
+      "issue_no": 13,
+      "project_no": 48,
+      "user_id": 9,
+      "trash": true
+    },
+    {
+      "issue_no": 14,
+      "project_no": 27,
+      "user_id": 7,
+      "trash": true
+    },
+    {
+      "issue_no": 15,
+      "project_no": 6,
+      "user_id": 10,
+      "trash": true
+    },
+    {
+      "issue_no": 16,
+      "project_no": 3,
+      "user_id": 2,
+      "trash": true
+    },
+    {
+      "issue_no": 17,
+      "project_no": 47,
+      "user_id": 2,
+      "trash": true
+    },
+    {
+      "issue_no": 18,
+      "project_no": 5,
+      "user_id": 9,
+      "trash": true
+    },
+    {
+      "issue_no": 19,
+      "project_no": 9,
+      "user_id": 6,
+      "trash": true
+    },
+    {
+      "issue_no": 20,
+      "project_no": 19,
+      "user_id": 6,
+      "trash": true
+    },
+    {
+      "issue_no": 21,
+      "project_no": 17,
+      "user_id": 8,
+      "trash": true
+    },
+    {
+      "issue_no": 22,
+      "project_no": 12,
+      "user_id": 6,
+      "trash": true
+    },
+    {
+      "issue_no": 23,
+      "project_no": 49,
+      "user_id": 2,
+      "trash": true
+    },
+    {
+      "issue_no": 24,
+      "project_no": 39,
+      "user_id": 8,
+      "trash": true
+    },
+    {
+      "issue_no": 25,
+      "project_no": 35,
+      "user_id": 7,
+      "trash": true
+    },
+    {
+      "issue_no": 26,
+      "project_no": 2,
+      "user_id": 7,
+      "trash": true
+    },
+    {
+      "issue_no": 27,
+      "project_no": 21,
+      "user_id": 2,
+      "trash": true
+    },
+    {
+      "issue_no": 28,
+      "project_no": 23,
+      "user_id": 2,
+      "trash": true
+    },
+    {
+      "issue_no": 29,
+      "project_no": 27,
+      "user_id": 2,
+      "trash": true
+    },
+    {
+      "issue_no": 30,
+      "project_no": 48,
+      "user_id": 8,
+      "trash": true
+    },
+    {
+      "issue_no": 31,
+      "project_no": 44,
+      "user_id": 5,
+      "trash": true
+    },
+    {
+      "issue_no": 32,
+      "project_no": 24,
+      "user_id": 6,
+      "trash": true
+    },
+    {
+      "issue_no": 33,
+      "project_no": 34,
+      "user_id": 7,
+      "trash": true
+    },
+    {
+      "issue_no": 34,
+      "project_no": 21,
+      "user_id": 6,
+      "trash": true
+    },
+    {
+      "issue_no": 35,
+      "project_no": 47,
+      "user_id": 8,
+      "trash": true
+    },
+    {
+      "issue_no": 36,
+      "project_no": 7,
+      "user_id": 8,
+      "trash": true
+    },
+    {
+      "issue_no": 37,
+      "project_no": 28,
+      "user_id": 8,
+      "trash": true
+    },
+    {
+      "issue_no": 38,
+      "project_no": 46,
+      "user_id": 7,
+      "trash": true
+    },
+    {
+      "issue_no": 39,
+      "project_no": 50,
+      "user_id": 4,
+      "trash": true
+    },
+    {
+      "issue_no": 40,
+      "project_no": 23,
+      "user_id": 5,
+      "trash": true
+    },
+    {
+      "issue_no": 41,
+      "project_no": 40,
+      "user_id": 6,
+      "trash": true
+    },
+    {
+      "issue_no": 42,
+      "project_no": 27,
+      "user_id": 3,
+      "trash": true
+    },
+    {
+      "issue_no": 43,
+      "project_no": 50,
+      "user_id": 5,
+      "trash": true
+    },
+    {
+      "issue_no": 44,
+      "project_no": 43,
+      "user_id": 1,
+      "trash": true
+    },
+    {
+      "issue_no": 45,
+      "project_no": 43,
+      "user_id": 2,
+      "trash": true
+    },
+    {
+      "issue_no": 46,
+      "project_no": 2,
+      "user_id": 7,
+      "trash": true
+    },
+    {
+      "issue_no": 47,
+      "project_no": 29,
+      "user_id": 3,
+      "trash": true
+    },
+    {
+      "issue_no": 48,
+      "project_no": 46,
+      "user_id": 6,
+      "trash": true
+    },
+    {
+      "issue_no": 49,
+      "project_no": 25,
+      "user_id": 4,
+      "trash": true
+    },
+    {
+      "issue_no": 50,
+      "project_no": 33,
+      "user_id": 10,
+      "trash": true
+    }
+  ]
+}

@@ -1,3 +1,6 @@
+import ChatButton from '@/features/_components/ChatButton';
+import LogoutButton from '@/features/_components/LogoutButton';
+import Menu from '@/features/_container/main/Menu';
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
 import '../features/_styles/globals.css';
@@ -16,7 +19,16 @@ export default function RootLayout({
 }) {
   return (
     <html lang='en'>
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>
+        <div>
+          <Menu></Menu>
+          <div className=' fixed translate-x-[-50%] translate-y-[-50%] top-[50%] left-[50%] w-[1000px] h-[500px] border-solid border-black border-2 -z-10'>
+            {children}
+          </div>
+          <LogoutButton></LogoutButton>
+          <ChatButton></ChatButton>
+        </div>
+      </body>
     </html>
   );
 }
