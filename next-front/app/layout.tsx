@@ -16,7 +16,7 @@ export default function RootLayout({
     <html lang='en'>
       <body>
         <div>
-          <MenuSheet></MenuSheet>
+          <MenuSheet userId={1}></MenuSheet>
           {children}
         </div>
       </body>

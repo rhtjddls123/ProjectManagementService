@@ -1,3 +1,5 @@
+// import { HoverCardDemo } from '@/features/_components/HoverDemo';
+
 export default function Home() {
-  return <div></div>;
+  return <div>{/* <HoverCardDemo></HoverCardDemo> */}</div>;
 }
