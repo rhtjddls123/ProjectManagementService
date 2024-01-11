@@ -12,3 +12,8 @@ export type modalStyleProps = {
   height?: string;
   bgColor?: string;
 };
+
+export type projectType = {
+  project_no: number;
+  project_title: string;
+};
