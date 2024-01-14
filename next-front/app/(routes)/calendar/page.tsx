@@ -1,12 +1,12 @@
-import React from 'react';
+import { IssuModalDemo } from '@/features/_components/modal/IssueModalDemo';
 
 const CalendarPage = () => {
   return (
-    <div className='whitespace-pre-wrap'>
-      {'sdafasdfdsafa\n' +
-        'asdfasdfsadfasfd \nasdfasdfasdfsaf\n sadfasdfsadfsadf' +
-        'sadfasfsadfsdfasf \nasdfasfsadfsafas'}
-    </div>
+    <>
+      <IssuModalDemo></IssuModalDemo>
+      <IssuModalDemo></IssuModalDemo>
+      <IssuModalDemo></IssuModalDemo>
+    </>
   );
 };
 
