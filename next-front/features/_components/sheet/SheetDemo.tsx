@@ -12,7 +12,7 @@ type Props = {
 
 export function SheetSide({ side, children, closeButton }: Props) {
   return (
-    <Sheet>
+    <Sheet open={true}>
       <SheetTrigger asChild>
         <Button variant='outline'>{side}</Button>
       </SheetTrigger>
