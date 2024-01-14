@@ -1,6 +1,6 @@
 'use client';
 
-import { HamburgerButtonStyle } from '../_styles/styledComponentStyles';
+import { HamburgerButtonStyle } from '@/features/_styles/styledComponentStyles';
 
 type Props = {
   onClick?: () => void;

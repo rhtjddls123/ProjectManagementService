@@ -1,5 +1,5 @@
-import { Button } from '../_styles/styledComponentStyles';
-import { buttonStyleProps } from '../_types/type';
+import { Button } from '@/features/_styles/styledComponentStyles';
+import { buttonStyleProps } from '@/features/_types/type';
 
 type Props = {
   children?: React.ReactNode;

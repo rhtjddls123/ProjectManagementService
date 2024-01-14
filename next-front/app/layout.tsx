@@ -15,9 +15,13 @@ export default function RootLayout({
   return (
     <html lang='en'>
       <body>
-        <div>
-          <MenuSheet userId={1}></MenuSheet>
-          {children}
+        <div className=' relative min-h-screen'>
+          <div className=' absolute top-[2%] left-[1%]'>
+            <MenuSheet userId={1}></MenuSheet>
+          </div>
+          <div className=' border border-solid rounded-2xl border-black w-4/5 h-[90%] fixed top-1/2 bottom-1/2 left-1/2 right-1/2 -translate-y-1/2 -translate-x-1/2'>
+            {children}
+          </div>
         </div>
       </body>
     </html>

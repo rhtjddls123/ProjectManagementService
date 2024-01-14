@@ -1,7 +1,7 @@
 'use client';
 
-import { ModalStyle } from '../_styles/styledComponentStyles';
-import { modalStyleProps } from '../_types/type';
+import { ModalStyle } from '@/features/_styles/styledComponentStyles';
+import { modalStyleProps } from '@/features/_types/type';
 
 type Props = {
   className?: string;
