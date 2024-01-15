@@ -1,3 +1,9 @@
+import IssueTest from '@/features/_components/modal/IssueTest';
+
 export default function Home() {
-  return <div></div>;
+  return (
+    <div>
+      <IssueTest></IssueTest>
+    </div>
+  );
 }
