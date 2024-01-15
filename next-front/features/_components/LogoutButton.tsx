@@ -6,7 +6,7 @@ import React from 'react';
 const LogoutButton = () => {
   return (
     <>
-      <button className=' absolute top-2 right-2' onClick={() => {}}>
+      <button className=' absolute top-[2%] right-[1%]' onClick={() => {}}>
         <Image
           width={40}
           height={40}
