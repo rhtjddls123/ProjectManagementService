@@ -1,6 +1,6 @@
 import { issueType } from '@/features/_types/type';
 import React from 'react';
-import ImageModal from './ImageModal';
+import ImageModal from '../ImageModal';
 
 const IssueContent = ({ item }: { item: issueType }) => {
   return (
