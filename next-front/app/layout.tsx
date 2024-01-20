@@ -1,7 +1,6 @@
-import ChatButton from '@/features/_components/ChatButton';
-import LogoutButton from '@/features/_components/LogoutButton';
-import { ToastDemo } from '@/features/_components/modal/todo/ToastDemo';
-import MenuSheet from '@/features/_components/sheet/MenuSheet';
+import ChatButton from '@/features/_components/button/ChatButton';
+import LogoutButton from '@/features/_components/button/LogoutButton';
+import MenuSheet from '@/features/_components/sheet/menu/MenuSheet';
 import type { Metadata } from 'next';
 import '../features/_styles/globals.css';
 
@@ -27,7 +26,6 @@ export default function RootLayout({
           <div className=' border border-solid overflow-hidden rounded-2xl border-black w-4/5 h-[90%] fixed top-1/2 bottom-1/2 left-1/2 right-1/2 -translate-y-1/2 -translate-x-1/2'>
             {children}
           </div>
-          <ToastDemo></ToastDemo>
         </div>
       </body>
     </html>

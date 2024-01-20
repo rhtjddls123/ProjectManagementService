@@ -1,12 +1,11 @@
-// import IssueTest from '@/features/_components/modal/Issue/IssueTest';
-import { ToastDemo } from '@/features/_components/modal/todo/ToastDemo';
-import TodomodalDemo from '@/features/_components/modal/todo/TodomodalDemo';
+import IssueTest from '@/features/_components/modal/Issue/IssueTest';
+import TodoPopover from '@/features/_components/popover/todo/TodoPopover';
 
 export default function Home() {
   return (
     <div>
-      {/* <IssueTest></IssueTest> */}
-      <TodomodalDemo></TodomodalDemo>
+      <IssueTest></IssueTest>
+      <TodoPopover></TodoPopover>
     </div>
   );
 }
