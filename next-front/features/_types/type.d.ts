@@ -29,3 +29,14 @@ export type issueType = {
   issue_experiation_date: string;
   issue_status: boolean;
 };
+
+export type todoType = {
+  PROJECT_NO: number;
+  USER_ID: number;
+  title: string;
+  content: string;
+  status: boolean;
+  create_date: string;
+  start_date: string;
+  goal_date: string;
+};
