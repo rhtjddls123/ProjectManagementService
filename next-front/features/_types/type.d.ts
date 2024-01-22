@@ -31,6 +31,7 @@ export type issueType = {
 };
 
 export type todoType = {
+  TODO_NO: number;
   PROJECT_NO: number;
   USER_ID: number;
   title: string;
@@ -39,4 +40,6 @@ export type todoType = {
   create_date: string;
   start_date: string;
   goal_date: string;
+  progress: number;
+  complete_date: string | null;
 };
