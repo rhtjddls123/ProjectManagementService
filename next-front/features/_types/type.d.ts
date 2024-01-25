@@ -33,13 +33,13 @@ export type issueType = {
 export type todoType = {
   TODO_NO: number;
   PROJECT_NO: number;
-  USER_ID: number;
-  title: string;
-  content: string;
-  status: boolean;
-  create_date: string;
-  start_date: string;
-  goal_date: string;
-  progress: number;
-  complete_date: string | null;
+  USER_NO: number;
+  TITLE: string;
+  CONTENT: string;
+  STATUS: boolean;
+  CREATE_DATE: string;
+  START_DATE: string;
+  GOAL_DATE: string;
+  PROGRESS: number;
+  COMPLETE_DATE: string | null;
 };

@@ -54,15 +54,15 @@ export const testIssue = ({ projectId, userId }: testIssueProps) => {
 
 type testTodoProps = {
   PROJECT_NO: number;
-  USER_ID: number;
+  USER_NO: number;
 };
 
 export const testTodo = ({
   PROJECT_NO,
-  USER_ID,
+  USER_NO,
 }: testTodoProps): todoType[] => {
   const Todo = getTodoList().TODO.filter(
-    (item) => item.PROJECT_NO === PROJECT_NO && item.USER_ID === USER_ID
+    (item) => item.PROJECT_NO === PROJECT_NO && item.USER_NO === USER_NO
   );
   return Todo;
 };

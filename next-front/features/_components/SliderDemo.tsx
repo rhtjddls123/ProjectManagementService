@@ -9,6 +9,7 @@ export function SliderDemo({ className, ...props }: SliderProps) {
   const { handleSubmit, control } = useForm();
   const submit = debounce(
     handleSubmit((data) => {
+      alert(JSON.stringify(data));
       console.log(JSON.stringify(data));
     }),
     1000

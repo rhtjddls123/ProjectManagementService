@@ -36,7 +36,7 @@ import {
 // import { ArrowUpDown } from 'lucide-react';
 import * as React from 'react';
 
-const data: todoType[] = testTodo({ PROJECT_NO: 33, USER_ID: 8 });
+const data: todoType[] = testTodo({ PROJECT_NO: 33, USER_NO: 8 });
 
 const checkboxSize = 30;
 const dateSize = 90;
@@ -78,62 +78,62 @@ export const columns: ColumnDef<todoType>[] = [
     minSize: 0,
   },
   {
-    accessorKey: 'title',
+    accessorKey: 'TITLE',
     header: '제목',
     cell: ({ row }) => (
-      <div className='capitalize'>{row.getValue('title')}</div>
+      <div className='capitalize'>{row.getValue('TITLE')}</div>
     ),
     size: titleSize,
   },
   {
-    accessorKey: 'status',
+    accessorKey: 'STATUS',
     header: '상태',
     cell: ({ row }) => (
       <div className='lowercase'>
-        {row.getValue('status') ? '완료' : '미완료'}
+        {row.getValue('STATUS') ? '완료' : '미완료'}
       </div>
     ),
     size: statusSize,
   },
   {
-    accessorKey: 'progress',
+    accessorKey: 'PROGRESS',
     header: () => '진행상황',
     cell: ({ row }) => (
       <div className=' font-medium items-center justify-center'>
-        <SliderDemo defaultValue={[row.getValue('progress')]}></SliderDemo>
+        <SliderDemo defaultValue={[row.getValue('PROGRESS')]}></SliderDemo>
       </div>
     ),
     size: progressSize,
   },
   {
-    accessorKey: 'start_date',
+    accessorKey: 'START_DATE',
     header: () => '시작일자',
     cell: ({ row }) => (
-      <div className=' font-medium'>{row.getValue('start_date')}</div>
+      <div className=' font-medium'>{row.getValue('START_DATE')}</div>
     ),
     size: dateSize,
   },
   {
-    accessorKey: 'goal_date',
+    accessorKey: 'GOAL_DATE',
     header: () => '목표일자',
     cell: ({ row }) => (
-      <div className=' font-medium'>{row.getValue('goal_date')}</div>
+      <div className=' font-medium'>{row.getValue('GOAL_DATE')}</div>
     ),
     size: dateSize,
   },
   {
-    accessorKey: 'complete_date',
+    accessorKey: 'COMPLETE_DATE',
     header: () => '완료일자',
     cell: ({ row }) => (
-      <div className=' font-medium'>{row.getValue('complete_date')}</div>
+      <div className=' font-medium'>{row.getValue('COMPLETE_DATE')}</div>
     ),
     size: dateSize,
   },
   {
-    accessorKey: 'content',
+    accessorKey: 'CONTENT',
     header: () => '내용',
     cell: ({ row }) => (
-      <div className=' font-medium'>{row.getValue('content')}</div>
+      <div className=' font-medium'>{row.getValue('CONTENT')}</div>
     ),
     size: contentSize,
   },
@@ -177,9 +177,9 @@ export function TodoPageMain() {
       <div className='flex p-4 justify-between'>
         <Input
           placeholder='Filter title...'
-          value={(table.getColumn('title')?.getFilterValue() as string) ?? ''}
+          value={(table.getColumn('TITLE')?.getFilterValue() as string) ?? ''}
           onChange={(event) =>
-            table.getColumn('title')?.setFilterValue(event.target.value)
+            table.getColumn('TITLE')?.setFilterValue(event.target.value)
           }
           className='max-w-sm'
         />
