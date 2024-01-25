@@ -1,4 +1,5 @@
 import { testProfile } from '@/features/_utils/util';
+import { useSession } from 'next-auth/react';
 import React from 'react';
 
 type Props = {
@@ -7,15 +8,14 @@ type Props = {
 
 const MyProfile = ({ userId }: Props) => {
   const user = testProfile(userId);
+  const { data: session } = useSession();
   return (
     <>
-      {user.map((item) => (
-        <ul key={item.user_id}>
-          <li>{item.user_name}</li>
-          <li>{item.dept_name}</li>
-          <li>{item.user_id}</li>
-        </ul>
-      ))}
+      <ul>
+        <li>{session?.user?.name}</li>
+        <li>{user.dept_name}</li>
+        <li>{session?.user?.email}</li>
+      </ul>
     </>
   );
 };

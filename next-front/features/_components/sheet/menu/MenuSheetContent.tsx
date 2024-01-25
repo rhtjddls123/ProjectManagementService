@@ -1,4 +1,5 @@
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar';
+import { useSession } from 'next-auth/react';
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
@@ -7,6 +8,7 @@ import MyProfile from './MyProfile';
 import MyProjectList from './MyProjectList';
 
 const MenuSheetContent = ({ userId }: { userId: number }) => {
+  const { data: session } = useSession();
   return (
     <div
       className={cn(
@@ -14,8 +16,10 @@ const MenuSheetContent = ({ userId }: { userId: number }) => {
       )}
     >
       <div className=' flex-grow-[1] basis-0'>
-        <Avatar className=' w-24 h-24'>
-          <AvatarImage src='https://github.com/shadcn.png' />
+        <Avatar className=' w-24 h-24 ml-[20px]'>
+          <AvatarImage
+            src={session?.user?.image || 'https://github.com/shadcn.png'}
+          />
           <AvatarFallback>CN</AvatarFallback>
         </Avatar>
         <div className=' text-center'>

@@ -3,6 +3,7 @@ import LogoutButton from '@/features/_components/button/LogoutButton';
 import MenuSheet from '@/features/_components/sheet/menu/MenuSheet';
 import type { Metadata } from 'next';
 import '../features/_styles/globals.css';
+import AuthSession from './AuthSession';
 
 export const metadata: Metadata = {
   title: 'Create Next App',
@@ -17,16 +18,18 @@ export default function RootLayout({
   return (
     <html lang='en'>
       <body>
-        <div className=' relative min-h-screen'>
-          <div className=' absolute top-[2%] left-[1%]'>
-            <MenuSheet userId={1} />
+        <AuthSession>
+          <div className=' relative min-h-screen'>
+            <div className=' absolute top-[2%] left-[1%]'>
+              <MenuSheet userId={1} />
+            </div>
+            <ChatButton />
+            <LogoutButton />
+            <div className=' border border-solid overflow-hidden rounded-2xl border-black w-4/5 h-[90%] fixed top-1/2 bottom-1/2 left-1/2 right-1/2 -translate-y-1/2 -translate-x-1/2'>
+              {children}
+            </div>
           </div>
-          <ChatButton />
-          <LogoutButton />
-          <div className=' border border-solid overflow-hidden rounded-2xl border-black w-4/5 h-[90%] fixed top-1/2 bottom-1/2 left-1/2 right-1/2 -translate-y-1/2 -translate-x-1/2'>
-            {children}
-          </div>
-        </div>
+        </AuthSession>
       </body>
     </html>
   );

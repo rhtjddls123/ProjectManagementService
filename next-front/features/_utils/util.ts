@@ -36,7 +36,7 @@ export const testProjectList = (userId: number) => {
 };
 
 export const testProfile = (userId: number) => {
-  const user = getUserList().USER.filter((item) => +item.user_no === userId);
+  const user = getUserList().USER.filter((item) => +item.user_no === userId)[0];
   return user;
 };
 
