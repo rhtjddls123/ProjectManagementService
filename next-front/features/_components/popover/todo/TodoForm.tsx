@@ -25,7 +25,8 @@ export function TodoForm() {
     <form
       className='space-y-8'
       onSubmit={handleSubmit((data) => {
-        if (data.date.from && data.date.to) alert(JSON.stringify(data));
+        if (data.date && data.date.from && data.date.to)
+          alert(JSON.stringify(data));
         else alert('날짜를 선택해주세요!');
       })}
     >
